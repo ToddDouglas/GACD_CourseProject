@@ -1,12 +1,3 @@
----
-title: "Codebook for Course Project"
-author: "T.D."
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Codebook for Course Project
 
